@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Cine | Entretenimento Premium",
+  "description": "Conheça o Pizza Cine, confira as opções de assinatura e fale conosco para saber mais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
